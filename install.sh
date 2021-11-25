@@ -16,4 +16,4 @@ tar -xvzf processing-3.5.4-linux64.tgz
 cd processing-3.5.4/
 sudo sh install.sh
 
-restart
+reboot
